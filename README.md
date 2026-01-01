@@ -13,10 +13,10 @@ The analysis focuses on data cleaning, feature engineering, visualization, and b
 Granularity: Order-level transactions
 
 ## Tools & Technologies
-*Python
-*Pandas — data manipulation & cleaning
-*Matplotlib & Seaborn — data visualization
-*Jupyter Notebook
+* Python
+* Pandas — data manipulation & cleaning
+* Matplotlib & Seaborn — data visualization
+* Jupyter Notebook
 
 ## Analysis Workflow
 ## 1.Data Understanding & Cleaning:
