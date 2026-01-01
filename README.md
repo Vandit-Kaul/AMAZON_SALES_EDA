@@ -21,8 +21,11 @@ Jupyter Notebook
 ## Analysis Workflow
 ## 1.Data Understanding & Cleaning:
 Loaded and inspected raw sales data
+
 Handled missing values and incorrect data types
+
 Removed irrelevant and duplicate columns
+
 Created new time-based features (Month, Year)
 Generated binary flags (e.g., promotion applied)
 
@@ -53,7 +56,8 @@ Regional analysis reveals state-level variation in product category demand.
 A sharp spike in orders and revenue occurs in April, followed by a gradual decline in subsequent months.
 
 ## 4.Business Recommendations
-Prioritize inventory and marketing for high-performing categories (Set, Kurta).
+* Prioritize inventory and marketing for high-performing categories (Set, Kurta).
+
 Use targeted promotional campaigns during peak demand periods to maximize revenue.
 Optimize state-level inventory allocation based on regional demand patterns.
 
