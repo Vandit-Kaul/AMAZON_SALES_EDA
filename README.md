@@ -6,9 +6,9 @@ This project performs Exploratory Data Analysis (EDA) on an Amazon e-commerce sa
 The analysis focuses on data cleaning, feature engineering, visualization, and business insight generation to support data-driven decision making.
 
 ## Dataset
-*Source: Kaggle — Amazon E-Commerce Sales Dataset
-*Type: Transactional e-commerce sales data
-*Time Period Covered: **March to June**
+* Source: Kaggle — Amazon E-Commerce Sales Dataset
+* Type: Transactional e-commerce sales data
+* Time Period Covered: **March to June**
 
 Granularity: Order-level transactions
 
